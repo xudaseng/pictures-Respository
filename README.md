@@ -1,2 +1,2 @@
 # myblog-pictures
-我的个人博客的图片库
+我的图片库
